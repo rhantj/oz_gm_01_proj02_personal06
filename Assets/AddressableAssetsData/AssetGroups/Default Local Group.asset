@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b681b04becf864446bace16d7d6b2697
+  m_SerializeEntries:
+  - m_GUID: 1d963996d6777f840949ad7ab4d65540
+    m_Address: Assets/01_Prefab/Chess/Vi Actual.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47813943fc09cc443a876707bf21fff7
+    m_Address: Assets/01_Prefab/Chess/Galio Actual.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9c5e611dcbdd0741b59add974a744d0
+    m_Address: Assets/01_Prefab/Chess/Shen Actual.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a2145e09f806f049aea9f2c2f60c771
+    m_Address: Assets/01_Prefab/Chess/Draven Actual.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b8b4115234f1564c8471b4ce2297519
+    m_Address: Assets/01_Prefab/Chess/Garen Actual.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7980bcffad12f0244ac02de1c985123d
+    m_Address: Assets/01_Prefab/Chess/Xayah Actual.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3bec2beb739ad04eba6f9bb84bda9ac
+    m_Address: Assets/01_Prefab/Chess/Vayne Actual.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 598e7f80ced46e245bc3388e84389f21
+    m_Address: Assets/01_Prefab/Chess/Jarvan Actual.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7378b644d81669c48965252069aab70f
+    m_Address: Assets/01_Prefab/SFX Object.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb1483bd3778d944fbdcdc9cb81f4e7a
+    m_Address: Assets/01_Prefab/Chess/Caytlin Actual.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14eae2370d165ad4288d9a8f96d8b861
+    m_Address: Assets/01_Prefab/Chess/Saion Actual.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 922870f9504e6b0438e21b87a73fe631
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Buff_Down.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da28829cce8256a4d82e1b8e4c5d8c3c
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Feathers.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0777bc22e9e6ace47a89e97740ea56e9
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Hit_08.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6eb729988ef2f349a24b0b4ae8fea47
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Hit_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9f412af9cbae3047acd0d634dbc4356
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Dust_Jump_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 106e80406f0206648b7ccaf2a3d6d010
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Energy_05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 594dbf2e6d47af1448c23c5bc4b3df45
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Hit_11.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bc7a473621637646bade3a7f128574e
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_ElementOrb_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48ce2b63a11c2f44dbc5ae55d03d9a27
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_ElementOrb_02_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dd7cce54cc54684bbf475b7e61db48c
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Energy_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d632561de57d9f24194eff48e0dc8687
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Dust_Jump_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c559f037d1f6f3c48b259cab6ef9bdbc
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Splash_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fed7c97a88174e245b699436089f8291
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Dust_Storm_Left_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ce6cc67dc61e344b97619ac6f58b70b
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_ElementOrb_04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 997b515cf158b5b429888d331178f939
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Hit_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 898f5d1fd628fe84d9c61d748894a899
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Dust_Storm_Right_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebb8aafa1f5669b4dbae1bd94495215a
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Explosion_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d682ddba9dbf99e41975ef2ec0e2d293
+    m_Address: Assets/01_Prefab/Enemy/Red_Mesh.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75330ca3a08013d49984fc212b57efa9
+    m_Address: Assets/01_Prefab/Enemy/Blue_Mesh.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e465c33ec0253947a4e8e06d2c7a8fa
+    m_Address: Assets/01_Prefab/Enemy/Shelly_Mesh.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c537f3fbc91c9ed41926e4110adda7ef
+    m_Address: Assets/01_Prefab/Enemy/Baron_Mesh.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 460c4140a68e97147855321b198a70dc
+    m_Address: Assets/Vefects/Trails VFX/VFX/Particles/Draven_NormalHit_VFX.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3bee774f77edfd4ba50b94bdf11ff59
+    m_Address: Assets/Vefects/Trails VFX/VFX/Particles/Vain_NormalHit_VFX.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bac9743e4b5f02348b26e4f39cd589f1
+    m_Address: Assets/Vefects/Trails VFX/VFX/Particles/Xayah_NormalHit_VFX.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42e687079abfd214b8c3337245ba1873
+    m_Address: Assets/Vefects/Trails VFX/VFX/Particles/Caytlin_NormalHit_VFX.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bba270f8f35e1541a95abe10ad620a4
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Flash_05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ece435b3110e7d1458b368b7b864b100
+    m_Address: Assets/VFX_Klaus/Prefabs/Hyper Casual FX/HCFX_Flash_05 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cee34483ae26ac14493863610c93c2b2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5b5a2ffd5395a4a4d85221f74f35a693, type: 2}
+    - {fileID: 11400000, guid: 80908d7a7ea79404eb41c4d5cb0595ef, type: 2}

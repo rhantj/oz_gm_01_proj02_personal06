@@ -1,2 +1,1 @@
-# oz_gm_01_proj02_personal06
-게임개발 1기 2차 프로젝트 Personal06 Repository
+# Team-Fight-Tactics
